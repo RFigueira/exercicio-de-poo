@@ -37,6 +37,4 @@ public class Grupo {
         this.pessoa = pessoa;
     }
 
-
-
 }
